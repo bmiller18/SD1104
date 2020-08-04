@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3_5SpamCheckerConsoleApp", "lab3_5SpamCheckerConsoleApp.csproj", "{B5D8C0AF-D348-4884-A182-C0AEA477C6D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5D8C0AF-D348-4884-A182-C0AEA477C6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D8C0AF-D348-4884-A182-C0AEA477C6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D8C0AF-D348-4884-A182-C0AEA477C6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D8C0AF-D348-4884-A182-C0AEA477C6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37A61362-7DA6-4233-800E-DC68EE230145}
+	EndGlobalSection
+EndGlobal

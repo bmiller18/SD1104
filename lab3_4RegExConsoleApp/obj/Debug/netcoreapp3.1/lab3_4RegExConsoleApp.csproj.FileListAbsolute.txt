@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_4RegExConsoleApp\bin\Debug\netcoreapp3.1\lab3_4RegExConsoleApp.exe
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_4RegExConsoleApp\bin\Debug\netcoreapp3.1\lab3_4RegExConsoleApp.deps.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_4RegExConsoleApp\bin\Debug\netcoreapp3.1\lab3_4RegExConsoleApp.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_4RegExConsoleApp\bin\Debug\netcoreapp3.1\lab3_4RegExConsoleApp.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_4RegExConsoleApp\bin\Debug\netcoreapp3.1\lab3_4RegExConsoleApp.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_4RegExConsoleApp\bin\Debug\netcoreapp3.1\lab3_4RegExConsoleApp.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_4RegExConsoleApp\obj\Debug\netcoreapp3.1\lab3_4RegExConsoleApp.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_4RegExConsoleApp\obj\Debug\netcoreapp3.1\lab3_4RegExConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_4RegExConsoleApp\obj\Debug\netcoreapp3.1\lab3_4RegExConsoleApp.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_4RegExConsoleApp\obj\Debug\netcoreapp3.1\lab3_4RegExConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_4RegExConsoleApp\obj\Debug\netcoreapp3.1\lab3_4RegExConsoleApp.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_4RegExConsoleApp\obj\Debug\netcoreapp3.1\lab3_4RegExConsoleApp.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_4RegExConsoleApp\obj\Debug\netcoreapp3.1\lab3_4RegExConsoleApp.genruntimeconfig.cache

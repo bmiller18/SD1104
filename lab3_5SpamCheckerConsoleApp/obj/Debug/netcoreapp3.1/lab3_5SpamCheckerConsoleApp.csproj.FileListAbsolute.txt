@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_5SpamCheckerConsoleApp\bin\Debug\netcoreapp3.1\lab3_5SpamCheckerConsoleApp.exe
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_5SpamCheckerConsoleApp\bin\Debug\netcoreapp3.1\lab3_5SpamCheckerConsoleApp.deps.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_5SpamCheckerConsoleApp\bin\Debug\netcoreapp3.1\lab3_5SpamCheckerConsoleApp.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_5SpamCheckerConsoleApp\bin\Debug\netcoreapp3.1\lab3_5SpamCheckerConsoleApp.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_5SpamCheckerConsoleApp\bin\Debug\netcoreapp3.1\lab3_5SpamCheckerConsoleApp.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_5SpamCheckerConsoleApp\bin\Debug\netcoreapp3.1\lab3_5SpamCheckerConsoleApp.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_5SpamCheckerConsoleApp\obj\Debug\netcoreapp3.1\lab3_5SpamCheckerConsoleApp.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_5SpamCheckerConsoleApp\obj\Debug\netcoreapp3.1\lab3_5SpamCheckerConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_5SpamCheckerConsoleApp\obj\Debug\netcoreapp3.1\lab3_5SpamCheckerConsoleApp.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_5SpamCheckerConsoleApp\obj\Debug\netcoreapp3.1\lab3_5SpamCheckerConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_5SpamCheckerConsoleApp\obj\Debug\netcoreapp3.1\lab3_5SpamCheckerConsoleApp.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_5SpamCheckerConsoleApp\obj\Debug\netcoreapp3.1\lab3_5SpamCheckerConsoleApp.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab3_5SpamCheckerConsoleApp\obj\Debug\netcoreapp3.1\lab3_5SpamCheckerConsoleApp.genruntimeconfig.cache

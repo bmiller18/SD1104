@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_5LoopsForEachList\bin\Debug\netcoreapp3.1\lab4_5LoopsForEachList.exe
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_5LoopsForEachList\bin\Debug\netcoreapp3.1\lab4_5LoopsForEachList.deps.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_5LoopsForEachList\bin\Debug\netcoreapp3.1\lab4_5LoopsForEachList.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_5LoopsForEachList\bin\Debug\netcoreapp3.1\lab4_5LoopsForEachList.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_5LoopsForEachList\bin\Debug\netcoreapp3.1\lab4_5LoopsForEachList.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_5LoopsForEachList\bin\Debug\netcoreapp3.1\lab4_5LoopsForEachList.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_5LoopsForEachList\obj\Debug\netcoreapp3.1\lab4_5LoopsForEachList.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_5LoopsForEachList\obj\Debug\netcoreapp3.1\lab4_5LoopsForEachList.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_5LoopsForEachList\obj\Debug\netcoreapp3.1\lab4_5LoopsForEachList.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_5LoopsForEachList\obj\Debug\netcoreapp3.1\lab4_5LoopsForEachList.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_5LoopsForEachList\obj\Debug\netcoreapp3.1\lab4_5LoopsForEachList.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_5LoopsForEachList\obj\Debug\netcoreapp3.1\lab4_5LoopsForEachList.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_5LoopsForEachList\obj\Debug\netcoreapp3.1\lab4_5LoopsForEachList.genruntimeconfig.cache
