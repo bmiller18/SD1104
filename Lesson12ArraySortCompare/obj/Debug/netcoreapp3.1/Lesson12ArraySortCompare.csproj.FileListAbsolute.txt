@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12ArraySortCompare\bin\Debug\netcoreapp3.1\Lesson12ArraySortCompare.exe
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12ArraySortCompare\bin\Debug\netcoreapp3.1\Lesson12ArraySortCompare.deps.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12ArraySortCompare\bin\Debug\netcoreapp3.1\Lesson12ArraySortCompare.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12ArraySortCompare\bin\Debug\netcoreapp3.1\Lesson12ArraySortCompare.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12ArraySortCompare\bin\Debug\netcoreapp3.1\Lesson12ArraySortCompare.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12ArraySortCompare\bin\Debug\netcoreapp3.1\Lesson12ArraySortCompare.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12ArraySortCompare\obj\Debug\netcoreapp3.1\Lesson12ArraySortCompare.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12ArraySortCompare\obj\Debug\netcoreapp3.1\Lesson12ArraySortCompare.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12ArraySortCompare\obj\Debug\netcoreapp3.1\Lesson12ArraySortCompare.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12ArraySortCompare\obj\Debug\netcoreapp3.1\Lesson12ArraySortCompare.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12ArraySortCompare\obj\Debug\netcoreapp3.1\Lesson12ArraySortCompare.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12ArraySortCompare\obj\Debug\netcoreapp3.1\Lesson12ArraySortCompare.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12ArraySortCompare\obj\Debug\netcoreapp3.1\Lesson12ArraySortCompare.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson13DesignPatternsBuilderObserver\bin\Debug\netcoreapp3.1\Lesson13DesignPatternsBuilderObserver.exe
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson13DesignPatternsBuilderObserver\bin\Debug\netcoreapp3.1\Lesson13DesignPatternsBuilderObserver.deps.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson13DesignPatternsBuilderObserver\bin\Debug\netcoreapp3.1\Lesson13DesignPatternsBuilderObserver.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson13DesignPatternsBuilderObserver\bin\Debug\netcoreapp3.1\Lesson13DesignPatternsBuilderObserver.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson13DesignPatternsBuilderObserver\bin\Debug\netcoreapp3.1\Lesson13DesignPatternsBuilderObserver.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson13DesignPatternsBuilderObserver\bin\Debug\netcoreapp3.1\Lesson13DesignPatternsBuilderObserver.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson13DesignPatternsBuilderObserver\obj\Debug\netcoreapp3.1\Lesson13DesignPatternsBuilderObserver.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson13DesignPatternsBuilderObserver\obj\Debug\netcoreapp3.1\Lesson13DesignPatternsBuilderObserver.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson13DesignPatternsBuilderObserver\obj\Debug\netcoreapp3.1\Lesson13DesignPatternsBuilderObserver.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson13DesignPatternsBuilderObserver\obj\Debug\netcoreapp3.1\Lesson13DesignPatternsBuilderObserver.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson13DesignPatternsBuilderObserver\obj\Debug\netcoreapp3.1\Lesson13DesignPatternsBuilderObserver.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson13DesignPatternsBuilderObserver\obj\Debug\netcoreapp3.1\Lesson13DesignPatternsBuilderObserver.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson13DesignPatternsBuilderObserver\obj\Debug\netcoreapp3.1\Lesson13DesignPatternsBuilderObserver.genruntimeconfig.cache

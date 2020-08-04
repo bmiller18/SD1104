@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12Lambda\bin\Debug\netcoreapp3.1\Lesson12Lambda.exe
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12Lambda\bin\Debug\netcoreapp3.1\Lesson12Lambda.deps.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12Lambda\bin\Debug\netcoreapp3.1\Lesson12Lambda.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12Lambda\bin\Debug\netcoreapp3.1\Lesson12Lambda.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12Lambda\bin\Debug\netcoreapp3.1\Lesson12Lambda.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12Lambda\bin\Debug\netcoreapp3.1\Lesson12Lambda.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12Lambda\obj\Debug\netcoreapp3.1\Lesson12Lambda.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12Lambda\obj\Debug\netcoreapp3.1\Lesson12Lambda.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12Lambda\obj\Debug\netcoreapp3.1\Lesson12Lambda.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12Lambda\obj\Debug\netcoreapp3.1\Lesson12Lambda.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12Lambda\obj\Debug\netcoreapp3.1\Lesson12Lambda.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12Lambda\obj\Debug\netcoreapp3.1\Lesson12Lambda.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson12Lambda\obj\Debug\netcoreapp3.1\Lesson12Lambda.genruntimeconfig.cache
