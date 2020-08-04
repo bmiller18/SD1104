@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_6ArrayToDoList\obj\Debug\netcoreapp3.1\lab4_6ArrayToDoList.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_6ArrayToDoList\obj\Debug\netcoreapp3.1\lab4_6ArrayToDoList.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_6ArrayToDoList\obj\Debug\netcoreapp3.1\lab4_6ArrayToDoList.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_6ArrayToDoList\obj\Debug\netcoreapp3.1\lab4_6ArrayToDoList.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_6ArrayToDoList\bin\Debug\netcoreapp3.1\lab4_6ArrayToDoList.exe
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_6ArrayToDoList\bin\Debug\netcoreapp3.1\lab4_6ArrayToDoList.deps.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_6ArrayToDoList\bin\Debug\netcoreapp3.1\lab4_6ArrayToDoList.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_6ArrayToDoList\bin\Debug\netcoreapp3.1\lab4_6ArrayToDoList.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_6ArrayToDoList\bin\Debug\netcoreapp3.1\lab4_6ArrayToDoList.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_6ArrayToDoList\bin\Debug\netcoreapp3.1\lab4_6ArrayToDoList.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_6ArrayToDoList\obj\Debug\netcoreapp3.1\lab4_6ArrayToDoList.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_6ArrayToDoList\obj\Debug\netcoreapp3.1\lab4_6ArrayToDoList.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab4_6ArrayToDoList\obj\Debug\netcoreapp3.1\lab4_6ArrayToDoList.genruntimeconfig.cache

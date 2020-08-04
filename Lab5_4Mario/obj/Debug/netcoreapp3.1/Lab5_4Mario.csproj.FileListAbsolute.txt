@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_4Mario\obj\Debug\netcoreapp3.1\Lab5_4Mario.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_4Mario\obj\Debug\netcoreapp3.1\Lab5_4Mario.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_4Mario\obj\Debug\netcoreapp3.1\Lab5_4Mario.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_4Mario\obj\Debug\netcoreapp3.1\Lab5_4Mario.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_4Mario\bin\Debug\netcoreapp3.1\Lab5_4Mario.exe
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_4Mario\bin\Debug\netcoreapp3.1\Lab5_4Mario.deps.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_4Mario\bin\Debug\netcoreapp3.1\Lab5_4Mario.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_4Mario\bin\Debug\netcoreapp3.1\Lab5_4Mario.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_4Mario\bin\Debug\netcoreapp3.1\Lab5_4Mario.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_4Mario\bin\Debug\netcoreapp3.1\Lab5_4Mario.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_4Mario\obj\Debug\netcoreapp3.1\Lab5_4Mario.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_4Mario\obj\Debug\netcoreapp3.1\Lab5_4Mario.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_4Mario\obj\Debug\netcoreapp3.1\Lab5_4Mario.genruntimeconfig.cache

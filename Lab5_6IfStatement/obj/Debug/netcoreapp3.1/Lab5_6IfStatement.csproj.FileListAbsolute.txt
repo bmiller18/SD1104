@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_6IfStatement\bin\Debug\netcoreapp3.1\Lab5_6IfStatement.exe
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_6IfStatement\bin\Debug\netcoreapp3.1\Lab5_6IfStatement.deps.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_6IfStatement\bin\Debug\netcoreapp3.1\Lab5_6IfStatement.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_6IfStatement\bin\Debug\netcoreapp3.1\Lab5_6IfStatement.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_6IfStatement\bin\Debug\netcoreapp3.1\Lab5_6IfStatement.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_6IfStatement\bin\Debug\netcoreapp3.1\Lab5_6IfStatement.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_6IfStatement\obj\Debug\netcoreapp3.1\Lab5_6IfStatement.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_6IfStatement\obj\Debug\netcoreapp3.1\Lab5_6IfStatement.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_6IfStatement\obj\Debug\netcoreapp3.1\Lab5_6IfStatement.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_6IfStatement\obj\Debug\netcoreapp3.1\Lab5_6IfStatement.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_6IfStatement\obj\Debug\netcoreapp3.1\Lab5_6IfStatement.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_6IfStatement\obj\Debug\netcoreapp3.1\Lab5_6IfStatement.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab5_6IfStatement\obj\Debug\netcoreapp3.1\Lab5_6IfStatement.genruntimeconfig.cache

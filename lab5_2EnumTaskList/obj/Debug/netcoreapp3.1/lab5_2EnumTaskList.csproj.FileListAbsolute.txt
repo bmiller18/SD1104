@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab5_2EnumTaskList\bin\Debug\netcoreapp3.1\lab5_2EnumTaskList.exe
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab5_2EnumTaskList\bin\Debug\netcoreapp3.1\lab5_2EnumTaskList.deps.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab5_2EnumTaskList\bin\Debug\netcoreapp3.1\lab5_2EnumTaskList.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab5_2EnumTaskList\bin\Debug\netcoreapp3.1\lab5_2EnumTaskList.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab5_2EnumTaskList\bin\Debug\netcoreapp3.1\lab5_2EnumTaskList.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab5_2EnumTaskList\bin\Debug\netcoreapp3.1\lab5_2EnumTaskList.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab5_2EnumTaskList\obj\Debug\netcoreapp3.1\lab5_2EnumTaskList.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab5_2EnumTaskList\obj\Debug\netcoreapp3.1\lab5_2EnumTaskList.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab5_2EnumTaskList\obj\Debug\netcoreapp3.1\lab5_2EnumTaskList.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab5_2EnumTaskList\obj\Debug\netcoreapp3.1\lab5_2EnumTaskList.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab5_2EnumTaskList\obj\Debug\netcoreapp3.1\lab5_2EnumTaskList.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab5_2EnumTaskList\obj\Debug\netcoreapp3.1\lab5_2EnumTaskList.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab5_2EnumTaskList\obj\Debug\netcoreapp3.1\lab5_2EnumTaskList.genruntimeconfig.cache
