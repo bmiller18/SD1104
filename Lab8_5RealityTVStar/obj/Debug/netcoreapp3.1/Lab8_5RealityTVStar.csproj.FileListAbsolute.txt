@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab8_5RealityTVStar\bin\Debug\netcoreapp3.1\Lab8_5RealityTVStar.exe
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab8_5RealityTVStar\bin\Debug\netcoreapp3.1\Lab8_5RealityTVStar.deps.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab8_5RealityTVStar\bin\Debug\netcoreapp3.1\Lab8_5RealityTVStar.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab8_5RealityTVStar\bin\Debug\netcoreapp3.1\Lab8_5RealityTVStar.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab8_5RealityTVStar\bin\Debug\netcoreapp3.1\Lab8_5RealityTVStar.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab8_5RealityTVStar\bin\Debug\netcoreapp3.1\Lab8_5RealityTVStar.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab8_5RealityTVStar\obj\Debug\netcoreapp3.1\Lab8_5RealityTVStar.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab8_5RealityTVStar\obj\Debug\netcoreapp3.1\Lab8_5RealityTVStar.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab8_5RealityTVStar\obj\Debug\netcoreapp3.1\Lab8_5RealityTVStar.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab8_5RealityTVStar\obj\Debug\netcoreapp3.1\Lab8_5RealityTVStar.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab8_5RealityTVStar\obj\Debug\netcoreapp3.1\Lab8_5RealityTVStar.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab8_5RealityTVStar\obj\Debug\netcoreapp3.1\Lab8_5RealityTVStar.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab8_5RealityTVStar\obj\Debug\netcoreapp3.1\Lab8_5RealityTVStar.genruntimeconfig.cache
