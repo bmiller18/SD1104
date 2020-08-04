@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_4VarSyntaxConsoleApp\bin\Debug\netcoreapp3.1\lab2_4VarSyntaxConsoleApp.exe
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_4VarSyntaxConsoleApp\bin\Debug\netcoreapp3.1\lab2_4VarSyntaxConsoleApp.deps.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_4VarSyntaxConsoleApp\bin\Debug\netcoreapp3.1\lab2_4VarSyntaxConsoleApp.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_4VarSyntaxConsoleApp\bin\Debug\netcoreapp3.1\lab2_4VarSyntaxConsoleApp.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_4VarSyntaxConsoleApp\bin\Debug\netcoreapp3.1\lab2_4VarSyntaxConsoleApp.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_4VarSyntaxConsoleApp\bin\Debug\netcoreapp3.1\lab2_4VarSyntaxConsoleApp.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_4VarSyntaxConsoleApp\obj\Debug\netcoreapp3.1\lab2_4VarSyntaxConsoleApp.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_4VarSyntaxConsoleApp\obj\Debug\netcoreapp3.1\lab2_4VarSyntaxConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_4VarSyntaxConsoleApp\obj\Debug\netcoreapp3.1\lab2_4VarSyntaxConsoleApp.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_4VarSyntaxConsoleApp\obj\Debug\netcoreapp3.1\lab2_4VarSyntaxConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_4VarSyntaxConsoleApp\obj\Debug\netcoreapp3.1\lab2_4VarSyntaxConsoleApp.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_4VarSyntaxConsoleApp\obj\Debug\netcoreapp3.1\lab2_4VarSyntaxConsoleApp.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_4VarSyntaxConsoleApp\obj\Debug\netcoreapp3.1\lab2_4VarSyntaxConsoleApp.genruntimeconfig.cache

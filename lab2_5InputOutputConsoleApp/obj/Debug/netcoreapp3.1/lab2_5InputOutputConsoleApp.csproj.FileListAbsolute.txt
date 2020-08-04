@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_5InputOutputConsoleApp\bin\Debug\netcoreapp3.1\lab2_5InputOutputConsoleApp.exe
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_5InputOutputConsoleApp\bin\Debug\netcoreapp3.1\lab2_5InputOutputConsoleApp.deps.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_5InputOutputConsoleApp\bin\Debug\netcoreapp3.1\lab2_5InputOutputConsoleApp.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_5InputOutputConsoleApp\bin\Debug\netcoreapp3.1\lab2_5InputOutputConsoleApp.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_5InputOutputConsoleApp\bin\Debug\netcoreapp3.1\lab2_5InputOutputConsoleApp.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_5InputOutputConsoleApp\bin\Debug\netcoreapp3.1\lab2_5InputOutputConsoleApp.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_5InputOutputConsoleApp\obj\Debug\netcoreapp3.1\lab2_5InputOutputConsoleApp.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_5InputOutputConsoleApp\obj\Debug\netcoreapp3.1\lab2_5InputOutputConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_5InputOutputConsoleApp\obj\Debug\netcoreapp3.1\lab2_5InputOutputConsoleApp.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_5InputOutputConsoleApp\obj\Debug\netcoreapp3.1\lab2_5InputOutputConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_5InputOutputConsoleApp\obj\Debug\netcoreapp3.1\lab2_5InputOutputConsoleApp.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_5InputOutputConsoleApp\obj\Debug\netcoreapp3.1\lab2_5InputOutputConsoleApp.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\lab2_5InputOutputConsoleApp\obj\Debug\netcoreapp3.1\lab2_5InputOutputConsoleApp.genruntimeconfig.cache
