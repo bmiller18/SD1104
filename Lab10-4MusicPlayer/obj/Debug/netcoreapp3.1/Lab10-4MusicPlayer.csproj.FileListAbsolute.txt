@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab10-4MusicPlayer\obj\Debug\netcoreapp3.1\Lab10-4MusicPlayer.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab10-4MusicPlayer\obj\Debug\netcoreapp3.1\Lab10-4MusicPlayer.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab10-4MusicPlayer\obj\Debug\netcoreapp3.1\Lab10-4MusicPlayer.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab10-4MusicPlayer\obj\Debug\netcoreapp3.1\Lab10-4MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab10-4MusicPlayer\bin\Debug\netcoreapp3.1\Lab10-4MusicPlayer.exe
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab10-4MusicPlayer\bin\Debug\netcoreapp3.1\Lab10-4MusicPlayer.deps.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab10-4MusicPlayer\bin\Debug\netcoreapp3.1\Lab10-4MusicPlayer.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab10-4MusicPlayer\bin\Debug\netcoreapp3.1\Lab10-4MusicPlayer.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab10-4MusicPlayer\bin\Debug\netcoreapp3.1\Lab10-4MusicPlayer.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab10-4MusicPlayer\bin\Debug\netcoreapp3.1\Lab10-4MusicPlayer.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab10-4MusicPlayer\obj\Debug\netcoreapp3.1\Lab10-4MusicPlayer.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab10-4MusicPlayer\obj\Debug\netcoreapp3.1\Lab10-4MusicPlayer.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lab10-4MusicPlayer\obj\Debug\netcoreapp3.1\Lab10-4MusicPlayer.genruntimeconfig.cache
