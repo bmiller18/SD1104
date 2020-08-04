@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson6OOP\bin\Debug\netcoreapp3.1\Lesson6OOP.exe
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson6OOP\bin\Debug\netcoreapp3.1\Lesson6OOP.deps.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson6OOP\bin\Debug\netcoreapp3.1\Lesson6OOP.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson6OOP\bin\Debug\netcoreapp3.1\Lesson6OOP.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson6OOP\bin\Debug\netcoreapp3.1\Lesson6OOP.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson6OOP\bin\Debug\netcoreapp3.1\Lesson6OOP.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson6OOP\obj\Debug\netcoreapp3.1\Lesson6OOP.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson6OOP\obj\Debug\netcoreapp3.1\Lesson6OOP.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson6OOP\obj\Debug\netcoreapp3.1\Lesson6OOP.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson6OOP\obj\Debug\netcoreapp3.1\Lesson6OOP.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson6OOP\obj\Debug\netcoreapp3.1\Lesson6OOP.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson6OOP\obj\Debug\netcoreapp3.1\Lesson6OOP.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson6OOP\obj\Debug\netcoreapp3.1\Lesson6OOP.genruntimeconfig.cache

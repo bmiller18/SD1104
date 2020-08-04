@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson8\bin\Debug\netcoreapp3.1\Lesson8.exe
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson8\bin\Debug\netcoreapp3.1\Lesson8.deps.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson8\bin\Debug\netcoreapp3.1\Lesson8.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson8\bin\Debug\netcoreapp3.1\Lesson8.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson8\bin\Debug\netcoreapp3.1\Lesson8.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson8\bin\Debug\netcoreapp3.1\Lesson8.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson8\obj\Debug\netcoreapp3.1\Lesson8.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson8\obj\Debug\netcoreapp3.1\Lesson8.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson8\obj\Debug\netcoreapp3.1\Lesson8.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson8\obj\Debug\netcoreapp3.1\Lesson8.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson8\obj\Debug\netcoreapp3.1\Lesson8.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson8\obj\Debug\netcoreapp3.1\Lesson8.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson8\obj\Debug\netcoreapp3.1\Lesson8.genruntimeconfig.cache

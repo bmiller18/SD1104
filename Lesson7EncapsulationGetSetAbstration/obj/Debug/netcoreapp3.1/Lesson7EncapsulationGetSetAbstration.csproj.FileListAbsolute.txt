@@ -1,0 +1,13 @@
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson7EncapsulationGetSetAbstration\obj\Debug\netcoreapp3.1\Lesson7EncapsulationGetSetAbstration.csprojAssemblyReference.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson7EncapsulationGetSetAbstration\obj\Debug\netcoreapp3.1\Lesson7EncapsulationGetSetAbstration.AssemblyInfoInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson7EncapsulationGetSetAbstration\obj\Debug\netcoreapp3.1\Lesson7EncapsulationGetSetAbstration.AssemblyInfo.cs
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson7EncapsulationGetSetAbstration\obj\Debug\netcoreapp3.1\Lesson7EncapsulationGetSetAbstration.csproj.CoreCompileInputs.cache
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson7EncapsulationGetSetAbstration\bin\Debug\netcoreapp3.1\Lesson7EncapsulationGetSetAbstration.exe
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson7EncapsulationGetSetAbstration\bin\Debug\netcoreapp3.1\Lesson7EncapsulationGetSetAbstration.deps.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson7EncapsulationGetSetAbstration\bin\Debug\netcoreapp3.1\Lesson7EncapsulationGetSetAbstration.runtimeconfig.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson7EncapsulationGetSetAbstration\bin\Debug\netcoreapp3.1\Lesson7EncapsulationGetSetAbstration.runtimeconfig.dev.json
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson7EncapsulationGetSetAbstration\bin\Debug\netcoreapp3.1\Lesson7EncapsulationGetSetAbstration.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson7EncapsulationGetSetAbstration\bin\Debug\netcoreapp3.1\Lesson7EncapsulationGetSetAbstration.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson7EncapsulationGetSetAbstration\obj\Debug\netcoreapp3.1\Lesson7EncapsulationGetSetAbstration.dll
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson7EncapsulationGetSetAbstration\obj\Debug\netcoreapp3.1\Lesson7EncapsulationGetSetAbstration.pdb
+C:\Users\ACT-Student\Documents\Brittany Miller\SD1104\Lesson7EncapsulationGetSetAbstration\obj\Debug\netcoreapp3.1\Lesson7EncapsulationGetSetAbstration.genruntimeconfig.cache
